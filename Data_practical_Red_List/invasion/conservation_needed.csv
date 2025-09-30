@@ -1,0 +1,158 @@
+assessmentId,internalTaxonId,scientificName,code,name,note
+103137318,103135035,Partula navigatoria,3.3.1,Reintroduction,""
+103143264,103143220,Partula garrettii,3.3.1,Reintroduction,""
+103143264,103143220,Partula garrettii,2.2,Invasive/problematic species control,""
+118976576,54583,Anaxyrus baxteri,2.1,Site/area management,
+118976576,54583,Anaxyrus baxteri,4.3,Awareness & communications,
+118976576,54583,Anaxyrus baxteri,1.2,Resource & habitat protection,
+118976576,54583,Anaxyrus baxteri,1.1,Site/area protection,
+118976576,54583,Anaxyrus baxteri,3.2,Species recovery,
+118976576,54583,Anaxyrus baxteri,3.4.1,Captive breeding/artificial propagation,
+118976576,54583,Anaxyrus baxteri,3.3.1,Reintroduction,
+119135241,16275,Partula hebe,3.4.1,Captive breeding/artificial propagation,
+119135241,16275,Partula hebe,3.3.1,Reintroduction,
+119135366,16277,Partula mirabilis,3.3.1,Reintroduction,
+119135366,16277,Partula mirabilis,3.4.1,Captive breeding/artificial propagation,
+119135460,16278,Partula mooreana,3.3.1,Reintroduction,
+119135460,16278,Partula mooreana,3.4.1,Captive breeding/artificial propagation,
+119135563,16320,Partula nodosa,3.4.1,Captive breeding/artificial propagation,
+119135563,16320,Partula nodosa,3.3.1,Reintroduction,
+119135650,16281,Partula suturalis,3.3.1,Reintroduction,
+119135650,16281,Partula suturalis,3.4.1,Captive breeding/artificial propagation,
+119138158,16293,Partula rosea,3.4.1,Captive breeding/artificial propagation,
+119138158,16293,Partula rosea,3.3.1,Reintroduction,
+119136043,16295,Partula varia,3.3.1,Reintroduction,
+119136043,16295,Partula varia,3.4.1,Captive breeding/artificial propagation,
+184207893,44080,Brighamia insignis,1.1,Site/area protection,""
+184207893,44080,Brighamia insignis,3.4.2,Genome resource bank,""
+184207893,44080,Brighamia insignis,2.2,Invasive/problematic species control,""
+184207893,44080,Brighamia insignis,4.1,Formal education,""
+184207893,44080,Brighamia insignis,3.4.1,Captive breeding/artificial propagation,""
+184207893,44080,Brighamia insignis,1.2,Resource & habitat protection,""
+184207893,44080,Brighamia insignis,2.1,Site/area management,""
+184207893,44080,Brighamia insignis,4.3,Awareness & communications,""
+184207893,44080,Brighamia insignis,3.3.2,Benign introduction,""
+184207893,44080,Brighamia insignis,2.3,Habitat & natural process restoration,""
+184207893,44080,Brighamia insignis,3.1.2,Trade management,""
+184207893,44080,Brighamia insignis,3.3.1,Reintroduction,""
+201053885,201053876,Peperomia degeneri,1.2,Resource & habitat protection,""
+201053885,201053876,Peperomia degeneri,3.2,Species recovery,""
+201053885,201053876,Peperomia degeneri,2.1,Site/area management,""
+201053885,201053876,Peperomia degeneri,2.2,Invasive/problematic species control,""
+201053885,201053876,Peperomia degeneri,2.3,Habitat & natural process restoration,""
+241413513,34169,Dendroseris gigantea,1.1,Site/area protection,""
+241413513,34169,Dendroseris gigantea,1.2,Resource & habitat protection,""
+241413513,34169,Dendroseris gigantea,2.2,Invasive/problematic species control,""
+241413513,34169,Dendroseris gigantea,3.3.1,Reintroduction,""
+241413513,34169,Dendroseris gigantea,3.4.1,Captive breeding/artificial propagation,""
+56605215,56605187,Diplazium laffanianum,3.3.1,Reintroduction,""
+56605215,56605187,Diplazium laffanianum,3.2,Species recovery,""
+10856873,44109,Cyanea pinnatifida,3.4.1,Captive breeding/artificial propagation,None
+79863496,79862904,Delissea subcordata,3.2,Species recovery,""
+83321765,11559,Lepidodactylus listeri,2.2,Invasive/problematic species control,""
+83321765,11559,Lepidodactylus listeri,3.4.1,Captive breeding/artificial propagation,""
+99166539,97111002,Calathus vicenteorum,2.3,Habitat & natural process restoration,""
+99166539,97111002,Calathus vicenteorum,2.2,Invasive/problematic species control,""
+99166539,97111002,Calathus vicenteorum,2.1,Site/area management,""
+99166539,97111002,Calathus vicenteorum,5.4.3,Sub-national level,""
+99166539,97111002,Calathus vicenteorum,4.3,Awareness & communications,""
+99166539,97111002,Calathus vicenteorum,4.1,Formal education,""
+102327566,102327291,Cryptoblepharus egeriae,3.4.1,Captive breeding/artificial propagation,""
+67371983,30560,Trochetiopsis erythroxylon,3.4.1,Captive breeding/artificial propagation,""
+67371983,30560,Trochetiopsis erythroxylon,3.2,Species recovery,""
+67371983,30560,Trochetiopsis erythroxylon,4.1,Formal education,""
+67371983,30560,Trochetiopsis erythroxylon,4.2,Training,""
+67371983,30560,Trochetiopsis erythroxylon,4.3,Awareness & communications,""
+67370818,37595,Lachanodes arborea,3.4.2,Genome resource bank,""
+67370818,37595,Lachanodes arborea,3.2,Species recovery,""
+67370818,37595,Lachanodes arborea,3.3.1,Reintroduction,""
+67370818,37595,Lachanodes arborea,4.1,Formal education,""
+67370818,37595,Lachanodes arborea,4.2,Training,""
+67370818,37595,Lachanodes arborea,4.3,Awareness & communications,""
+122926208,122926206,Abutilon pitcairnense,2.3,Habitat & natural process restoration,""
+122926208,122926206,Abutilon pitcairnense,2.2,Invasive/problematic species control,""
+122926208,122926206,Abutilon pitcairnense,4.2,Training,""
+122926208,122926206,Abutilon pitcairnense,4.1,Formal education,""
+122926208,122926206,Abutilon pitcairnense,3.3.1,Reintroduction,""
+94048187,22706052,Corvus hawaiiensis,2.3,Habitat & natural process restoration,"Restore and manage a significant proportion of remaining habitat within the species's historical range.
+</P>"
+94048187,22706052,Corvus hawaiiensis,2.2,Invasive/problematic species control,"Exclude ungulates from more areas of habitat.
+
+
+</P>"
+94048187,22706052,Corvus hawaiiensis,2.2,Invasive/problematic species control,"Deal creatively with the problem posed by <I>B. solitarius</I><B><SUP>1,5,6</SUP></B>. 
+</P>"
+94048187,22706052,Corvus hawaiiensis,2.2,Invasive/problematic species control,"Control potential predators and vectors of disease in the species's former range.
+
+</P>"
+94048187,22706052,Corvus hawaiiensis,3.4.1,Captive breeding/artificial propagation,Collar and Butchart (2013) suggested that captive breeding should be considered.
+94048187,22706052,Corvus hawaiiensis,3.3.1,Reintroduction,"Reintroduce birds to habitat managed to reduce major threats. 
+
+</P>"
+91177028,91177012,Cyperus rockii,2.1,Site/area management,""
+137328770,19948,Scardinius racovitzai,3.3.1,Reintroduction,""
+137328770,19948,Scardinius racovitzai,2.1,Site/area management,""
+137328770,19948,Scardinius racovitzai,2.3,Habitat & natural process restoration,""
+261269865,22725862,Todiramphus cinnamominus,3.3.1,Reintroduction,Identify one or more suitable reintroduction or translocation sites. Continue planning with the IUCN Conservation Translocation Specialist Group to identify the best locations for releasing kingfishers.
+261269865,22725862,Todiramphus cinnamominus,3.3.2,Benign introduction,Identify one or more suitable reintroduction or translocation sites. Continue planning with the IUCN Conservation Translocation Specialist Group to identify the best locations for releasing kingfishers.
+261269865,22725862,Todiramphus cinnamominus,3.4.1,Captive breeding/artificial propagation,Continue the captive-breeding programme.
+261269865,22725862,Todiramphus cinnamominus,2.2,Invasive/problematic species control,"Control <i>B. irregularis</i> and <i>F. catus</i> on Guam so that there is the potential for reintroductions to take place in the future. Further technological and methodological advancements, along with community engagement, are needed to achieve landscape-scale eradication of brown tree snakes on Guam. Restore Guam’s forests through eradication of introduced deer and feral pig populations, as well as control of invasive plants. "
+261269865,22725862,Todiramphus cinnamominus,4.3,Awareness & communications,"Further technological and methodological advancements, along with community engagement, are needed to achieve landscape-scale eradication of brown tree snakes on Guam."
+217783334,13152363,Chioninia coctei,4.3,Awareness & communications,""
+217759270,9017,Chelonoidis abingdonii,3.2,Species recovery,""
+217759270,9017,Chelonoidis abingdonii,3.3.1,Reintroduction,""
+217759270,9017,Chelonoidis abingdonii,2.3,Habitat & natural process restoration,""
+178409463,22690740,Zenaida graysoni,3.3.1,Reintroduction,Reintroduce the species following satisfactory progress in the mammal eradication and habitat restoration programmes.
+178409463,22690740,Zenaida graysoni,3.4.1,Captive breeding/artificial propagation,Import birds from the EEP and establish a breeding flock on Socorro.
+178409463,22690740,Zenaida graysoni,2.2,Invasive/problematic species control,"Complete the eradication of cats and sheep on Socorro. Put measures in place to control, but not eliminate, the locust swarm."
+178409463,22690740,Zenaida graysoni,2.3,Habitat & natural process restoration,Continue to restore native vegetation on Socorro.
+43520162,35042,Ochrosia brownii,2.3,Habitat & natural process restoration,""
+43520162,35042,Ochrosia brownii,2.2,Invasive/problematic species control,""
+43520162,35042,Ochrosia brownii,2.1,Site/area management,""
+43520162,35042,Ochrosia brownii,1.1,Site/area protection,""
+43520162,35042,Ochrosia brownii,3.4.2,Genome resource bank,""
+43520162,35042,Ochrosia brownii,3.4.1,Captive breeding/artificial propagation,""
+43520162,35042,Ochrosia brownii,3.3.1,Reintroduction,""
+192625464,18890,Barbodes herrei,2.1,Site/area management,
+192625464,18890,Barbodes herrei,1.1,Site/area protection,
+157724204,23156,Xiphophorus couchianus,1.2,Resource & habitat protection,""
+157724204,23156,Xiphophorus couchianus,4.3,Awareness & communications,""
+157724204,23156,Xiphophorus couchianus,4.2,Training,""
+157724204,23156,Xiphophorus couchianus,4.1,Formal education,""
+157724204,23156,Xiphophorus couchianus,1.1,Site/area protection,""
+157724204,23156,Xiphophorus couchianus,3.4.1,Captive breeding/artificial propagation,""
+157724204,23156,Xiphophorus couchianus,3.3.1,Reintroduction,""
+157724204,23156,Xiphophorus couchianus,3.2,Species recovery,""
+153022606,22685533,Cyanopsitta spixii,2.1,Site/area management,Manage and enforce protected areas.
+153022606,22685533,Cyanopsitta spixii,3.4.1,Captive breeding/artificial propagation,Continue cooperation between holders of captive birds and expand the captive population.
+153022606,22685533,Cyanopsitta spixii,3.3.1,Reintroduction,Introduce captive-bred fledglings and ensure protection from trappers.
+153022606,22685533,Cyanopsitta spixii,4.3,Awareness & communications,Continue the community education and engagement programmes.
+153022606,22685533,Cyanopsitta spixii,1.2,Resource & habitat protection,"Protect and improve habitat at the identified release sites, including by management of goats."
+153022606,22685533,Cyanopsitta spixii,5.4.3,Sub-national level,Introduce captive-bred fledglings and ensure protection from trappers.
+153022606,22685533,Cyanopsitta spixii,2.3,Habitat & natural process restoration,"Protect and improve habitat at the identified release sites, including by management of goats."
+1998432,191696,Allotoca goslinei,2.2,Invasive/problematic species control,""
+1998432,191696,Allotoca goslinei,2.1,Site/area management,""
+1998432,191696,Allotoca goslinei,4.3,Awareness & communications,""
+1998432,191696,Allotoca goslinei,1.1,Site/area protection,""
+1998432,191696,Allotoca goslinei,3.4.1,Captive breeding/artificial propagation,""
+1998432,191696,Allotoca goslinei,3.3.1,Reintroduction,""
+2757376,20285,Skiffia francesae,2.3,Habitat & natural process restoration,""
+2757376,20285,Skiffia francesae,2.2,Invasive/problematic species control,""
+2757376,20285,Skiffia francesae,2.1,Site/area management,""
+2757376,20285,Skiffia francesae,1.2,Resource & habitat protection,""
+2757376,20285,Skiffia francesae,4.3,Awareness & communications,""
+2757376,20285,Skiffia francesae,1.1,Site/area protection,""
+2757376,20285,Skiffia francesae,3.4.1,Captive breeding/artificial propagation,""
+2757376,20285,Skiffia francesae,3.3.1,Reintroduction,""
+546437,14881,Notropis amecae,2.2,Invasive/problematic species control,""
+546437,14881,Notropis amecae,2.1,Site/area management,""
+83794603,44077,Amaranthus brownii,2.3,Habitat & natural process restoration,""
+83794603,44077,Amaranthus brownii,2.2,Invasive/problematic species control,""
+83794603,44077,Amaranthus brownii,3.4.2,Genome resource bank,""
+83794603,44077,Amaranthus brownii,1.2,Resource & habitat protection,""
+83794603,44077,Amaranthus brownii,2.1,Site/area management,""
+47608529,272625865,Clianthus puniceus,3.2,Species recovery,""
+47608529,272625865,Clianthus puniceus,3.4.1,Captive breeding/artificial propagation,""
+47608529,272625865,Clianthus puniceus,3.4.2,Genome resource bank,""
+47608529,272625865,Clianthus puniceus,2.2,Invasive/problematic species control,""
+257423866,3719,Campsicnemus mirabilis,2.2,Invasive/problematic species control,""
