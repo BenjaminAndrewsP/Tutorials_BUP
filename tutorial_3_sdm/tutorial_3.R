@@ -152,3 +152,5 @@ r_pred_fut <- rast(as.matrix(bio_fut_df[,-c(3:5)]),type="xyz")
 
 plot(r_pred_fut)
 
+
+
